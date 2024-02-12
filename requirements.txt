@@ -1,0 +1,9 @@
+django
+djangorestframework
+mysql-connector-python
+Pillow
+django-cors-headers
+python-environ
+drf_spectacular
+mysqlclient
+djangorestframework-simplejwt
